@@ -1,5 +1,5 @@
 {
-    "name": "abelzhou/php-tf-idf",
+    "name": "abelzhou/php-tfidf",
     "description": "PHP TF-IDF",
     "type": "library",
     "license": "MIT",
