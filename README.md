@@ -9,6 +9,11 @@
 ## Version
 - 1.0 项目可用
 
+## Install
+```shell
+    composer require abelzhou/php-tfidf
+```
+
 
 ## 用例
 ```php
