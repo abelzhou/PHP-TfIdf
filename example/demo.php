@@ -6,7 +6,7 @@
  * Time: 12:23
  */
 
-require "../src/Document.php";
+require "../src/TiDocument.php";
 require "../src/AbsTransformer.php";
 require "../src/Transformer.php";
 require "../vendor/autoload.php";
