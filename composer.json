@@ -1,0 +1,15 @@
+{
+    "name": "abelzhou/php-tf-idf",
+    "description": "PHP TF-IDF",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abel",
+            "email": "abel.zhou@hotmail.com"
+        }
+    ],
+    "require": {
+        "abelzhou/php-trie-tree":"~3.0"
+    }
+}
