@@ -11,5 +11,10 @@
     ],
     "require": {
         "abelzhou/php-trie-tree":"~3.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "AbelZhou\\TfIdf\\":"src/"
+        }
     }
 }
