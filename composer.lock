@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4e96bf4639e9a01ab1d4cfd8f60823fa",
+    "content-hash": "4d940447712f9a6e7a133821f4f37f4a",
     "packages": [
         {
             "name": "abelzhou/php-trie-tree",
@@ -53,6 +53,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">5.3.0"
+    },
     "platform-dev": []
 }

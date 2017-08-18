@@ -6,7 +6,7 @@
  * Time: 14:39
  */
 
-namespace AbelZHou\TfIdf;
+namespace AbelZhou\TfIdf;
 
 
 class Transformer extends AbsTransformer {
