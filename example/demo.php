@@ -42,11 +42,8 @@ for ($i = 0; $i < count($contants); $i++) {
     $documents[] = new TiDocument($tree, $contants[$i], $i);
 }
 
-//开始计时
-$time = microtime(true);
 $transformer = new Transformer();
 //添加文档书
 $transformer->addContext($documents);
 $res = $transformer->fit_transform($documents[3]);
-$time = microtime(true) - $time;
 var_dump($res);
