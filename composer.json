@@ -1,6 +1,6 @@
 {
     "name": "abelzhou/php-tfidf",
-    "description": "PHP TF-IDF",
+    "description": "PHP TF-IDF TfIdf sort",
     "type": "library",
     "license": "MIT",
     "authors": [
