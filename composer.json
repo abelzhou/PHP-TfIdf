@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "abelzhou/php-trie-tree": "~3.0",
+    "abelzhou/php-trie-tree": "3.1",
     "php": ">5.3.0"
   },
   "autoload": {
